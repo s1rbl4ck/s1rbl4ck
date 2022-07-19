@@ -1,6 +1,6 @@
 ### Hey, I'm Danesh Habibi 👋
 <h3 align="justify">
-    I'm a Full-Stack developer with 2+ years experience in the field of Web Development. I'm passionate and ambitious about my work, therefore, I'm always excited to get involved in new challenges to get the most experience in this industry.
+    I'm a Full-Stack developer with 2+ years experience in the field of Web Development. I'm passionate and ambitious about my work, therefore, I'm always excited to get involved with new challenges to get the most experience in this industry.
 </h3>
 
 Recent Updates:
