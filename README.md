@@ -41,5 +41,6 @@ Recent Updates:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1rbl4ck"/>
 
-Playing Now:\
+### Playing Now:
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3qw02jl8uqoxzlvyz8zpqvunq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3qw02jl8uqoxzlvyz8zpqvunq&redirect=true)
