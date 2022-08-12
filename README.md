@@ -4,7 +4,7 @@
 </h3>
 
 Recent Updates:
-> Latest project: [Ateba Irani](https://atebairani.ir)
+> Latest project: [Ateba Irani](https://atebairani.ir)\
 > [My Personal Website](https://s1rbl4ck.netlify.app/)\
 > [React TicTacToe](https://tictactoe-s1rbl4ck.netlify.app/)\
 > Recent course I took [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) by Google\
