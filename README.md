@@ -7,7 +7,7 @@ Recent Updates:
 > Latest project: [Ateba Irani](https://atebairani.ir)\
 > [My Personal Website](https://s1rbl4ck.netlify.app/)\
 > [React TicTacToe](https://tictactoe-s1rbl4ck.netlify.app/)\
-> [Introduction to Git and GitHub - Certification](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)
+> [Introduction to Git and GitHub - Certification](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)\
 > [Front-End Web Development with React - Certificate](https://www.coursera.org/account/accomplishments/certificate/2D2YVHQESQCW)
 
 ## Languages and Tools:
