@@ -1,6 +1,6 @@
 <h1 align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7D7&width=435&lines=Hey%2C+I'm+Danesh+Habibi%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7D7&width=435&lines=Hey%2C+I'm+Danesh+Habibi%F0%9F%91%8B)](https://github.com/s1rbl4ck)
 </h1>
 
 <h3 align="justify">
