@@ -8,7 +8,7 @@
 </h3>
 
 Recent Updates:
-> Latest project: [Technofest Institute Of Technology - Project](https://trtitu.edu.eu/)\
+> [Technofest Institute Of Technology - Project](https://trtitu.edu.eu/)\
 > [Linux For Developers - Certification](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)\
 > [Ateba Irani - Project](https://atebairani.ir)\
 > [My Personal Website](https://s1rbl4ck.netlify.app/)\
