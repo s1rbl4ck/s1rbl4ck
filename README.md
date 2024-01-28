@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="justify">
-    I'm a Full-Stack developer with 2+ years experience in the field of Web Development. I'm passionate and ambitious about my work, therefore, I'm always excited to get involved with new challenges to gain more experience in this industry.
+    I'm a Full-Stack developer with 3+ years experience in the field of Web Development. I'm passionate and ambitious about my work, therefore, I'm always excited to get involved with new challenges to gain more experience in this industry.
 </h3>
 
 Recent Updates:
