@@ -8,10 +8,10 @@
 </h3>
 
 Recent Updates:
+> [Personal Portfolio - NextJs](https://s1rbl4ck.vercel.app/)\
 > [Technofest Institute Of Technology - Project](https://trtitu.edu.eu/)\
 > [Linux For Developers - Certification](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)\
 > [Ateba Irani - Project](https://atebairani.ir)\
-> [My Personal Website](https://s1rbl4ck.netlify.app/)\
 > [React TicTacToe](https://tictactoe-s1rbl4ck.netlify.app/)\
 > [Introduction to Git and GitHub - Certification](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)\
 > [Front-End Web Development with React - Certificate](https://www.coursera.org/account/accomplishments/certificate/2D2YVHQESQCW)
