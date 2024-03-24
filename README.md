@@ -8,6 +8,7 @@
 </h3>
 
 Recent Updates:
+> [Watchflick Movie Trailer Platform - NextJs](#)\
 > [Personal Portfolio - NextJs](https://s1rbl4ck.vercel.app/)\
 > [Technofest Institute Of Technology - Project](https://trtitu.edu.eu/)\
 > [Linux For Developers - Certification](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)\
