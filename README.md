@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="justify">
-    I'm a Full-Stack developer with 3+ years experience in the field of Web Development. I'm passionate and ambitious about my work, therefore, I'm always excited to get involved with new challenges to gain more experience in this industry.
+    I'm an experienced Computer Engineer with over 4 years of expertise in Web Development. Proficient in a diverse array of front-end and back-end technologies, including Javascript, Reactjs, Nextjs, PHP, Laravel, and Node.js. I've engineered innovative platforms that enhance company reputation and streamline operations through system automation and web-based solutions. Committed to leveraging technology to drive business growth and adept at overcoming challenges to deliver impactful results.
 </h3>
 
 Recent Updates:
