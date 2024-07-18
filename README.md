@@ -1,54 +1,36 @@
-<h1 align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&letterSpacing=2px&duration=4000&pause=700&color=C5F467&width=435&lines=Hello!+I'm+Danesh+Habibi)](https://github.com/s1rbl4ck)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42F7D7&width=435&lines=Hey%2C+I'm+Danesh+Habibi%F0%9F%91%8B)](https://github.com/s1rbl4ck)
-</h1>
-
-<h3 align="justify">
-    I'm an experienced Computer Engineer with over 4 years of expertise in Web Development. Proficient in a diverse array of front-end and back-end technologies, including Javascript, Reactjs, Nextjs, PHP, Laravel, and Node.js. I've engineered innovative platforms that enhance company reputation and streamline operations through system automation and web-based solutions. Committed to leveraging technology to drive business growth and adept at overcoming challenges to deliver impactful results.
-</h3>
-
-Recent Updates:
-> [Watchflick Movie Trailer Platform - NextJs](https://watchflick.vercel.app/)\
-> [Personal Portfolio - NextJs](https://s1rbl4ck.vercel.app/)\
-> [Technofest Institute Of Technology - Project](#)\
-> [Linux For Developers - Certification](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)\
-> [Ateba Irani - Project](https://atebairani.ir)\
-> [React TicTacToe](https://tictactoe-s1rbl4ck.netlify.app/)\
-> [Introduction to Git and GitHub - Certification](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)\
-> [Front-End Web Development with React - Certificate](https://www.coursera.org/account/accomplishments/certificate/2D2YVHQESQCW)
-
-## Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![ReactJs](https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![NextJs](https://img.shields.io/badge/NextJs-white?style=for-the-badge&logo=next.js&logoColor=black)&nbsp;
-![Php](https://img.shields.io/badge/Php-4B568C?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3477AC?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-41C6F0?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-417399?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-489F46?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-E9B81E?style=for-the-badge&logo=linux&logoColor=000000)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6E10EA?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-16BECB?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-C26191?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Webpack](https://img.shields.io/badge/Webpack-1B72B6?style=for-the-badge&logo=webpack&logoColor=white)&nbsp;
-
-## Connect with me:
-<p align = "center">
-
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://s1rbl4ck.vercel.app/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/daneshhabibi/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/s1rbl4ck)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/s1rbl4ck) 
-</p>
+Danesh Habibi (Friends call me Dani) <br>
+**Software Engineer**
 <br>
 
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;">
-<img src="https://github-readme-stats.vercel.app/api?username=s1rbl4ck&show_icons=true"/>
+Passionate and hardworking software engineer with a focus on problem-solving and software development. Proficient in a diverse array of front-end and back-end technologies, including Javascript, Reactjs, Nextjs, PHP, Laravel, Node.js and Express. I've engineered innovative platforms that enhance company reputation and streamline operations through system automation and web-based solutions. Committed to leveraging technology to drive business growth and adept at overcoming challenges to deliver impactful results.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s1rbl4ck"/>
-</div
+**Skills**
+- *Java*: Normally used for educational purposes, like algorithmic problems.
+- *JavaScript*: I've been quite busy with JavaScript by providing interactive web pages and building scalable and efficient web servers, besides that I also use javascript for automation, testing and web scrapping.
+- *TypeScript*: Building scalable and maintainable JavaScript applications, providing static typing, enhanced tooling support, and improved code readability and organization due to its type-checking capabilities, ES6+ features compatibility, and gradual adoption path within JavaScript projects.
+- *React.js*: Building single-page applications, complex UIs due to its component-based architecture, efficient Virtual DOM, and robust ecosystem.
+- *Next.js*: Used for server-side rendering, static site generation, and building performant, SEO-friendly web applications due to its hybrid rendering capabilities, built-in routing, and strong integration with React.
+- *Redux*: Managing complex application state, ensuring a predictable state container, and enabling easy debugging and testing due to its unidirectional data flow, middleware support, and integration with various libraries.
+- *Node.js*: Crafting scalable, high-performance server-side applications, handling asynchronous operations efficiently, and creating real-time applications due to its event-driven architecture, non-blocking I/O, and extensive package ecosystem.
+- *Express*: Integrated with Node.js for a fast, scalable web applications and APIs, simplifying server-side development, and handling routing and middleware efficiently due to its minimalistic framework, robust features, and flexibility.
+- *MongoDB*: Storing and managing large volumes of unstructured data, enabling flexible schema design, and scaling applications horizontally due to its NoSQL architecture, document-oriented model, and high performance.
+- *Php, Laravel*: Used for building robust, maintainable web applications, streamlining common tasks like routing and authentication, and ensuring a clean, elegant syntax due to its MVC architecture, built-in tools, and extensive ecosystem.
+- *SQL*: Managing and querying relational databases, ensuring data integrity, and performing efficient data retrieval and manipulation operations due to its standardized syntax, relational model support, and wide compatibility across database systems.
+- *Git*: Managing code changes, collaborating with teams, and ensuring project history and integrity through its distributed architecture, branching model, and efficient merging and conflict resolution capabilities.
+- *Tailwindcss*: I particularly use it for building custom, responsive user interfaces efficiently by applying utility-first classes directly in HTML, avoiding traditional CSS file bloat, and enabling rapid prototyping and consistent styling across projects due to its utility-based approach, customizable design system, and focus on developer productivity, especially in single-page application libraries like React.js and Next.js.
+- *Sass*: Enhancing CSS with variables, mixins, and nested rules, improving code organization and maintainability in styling. When customizing Tailwind CSS with Sass, I leverage its capabilities to define global variables, extend utility classes, and encapsulate styles, enhancing Tailwind's utility-based approach with more advanced styling features and modularity.
+
+**Certificates**
+- [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/account/accomplishments/certificate/5U26JHBS8LNA)
+- [Linux For Developers](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)
+- [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/2D2YVHQESQCW)
+
+**Projects**
+- [TopVan](https://topvan.ch/)
+- [Personal Sample Portfolio](https://s1rbl4ck.vercel.app/)
+- [Watchflick Movie Trailer Platform](https://watchflick.vercel.app/)
+- [AtebaIrani](https://atebairani.ir)
+- [React TicTacToe](https://tictactoe-s1rbl4ck.netlify.app/)
