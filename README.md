@@ -23,7 +23,8 @@ Passionate and hardworking software engineer with a focus on problem-solving and
 - **Sass**: Enhancing CSS with variables, mixins, and nested rules, improving code organization and maintainability in styling. When customizing Tailwind CSS with Sass, I leverage its capabilities to define global variables, extend utility classes, and encapsulate styles, enhancing Tailwind's utility-based approach with more advanced styling features and modularity.
 
 ### **Certificates**
-- [HackerRank Javascript](https://www.hackerrank.com/certificates/fdd229708247)
+- [HackerRank Javascript(Intermediate)](https://www.hackerrank.com/certificates/35d53b3872dc)
+- [HackerRank Javascript(Basics)](https://www.hackerrank.com/certificates/fdd229708247)
 - [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/account/accomplishments/certificate/5U26JHBS8LNA)
 - [Linux For Developers Certification](https://www.coursera.org/account/accomplishments/certificate/DBSLZ4ZWXQ2N)
 - [Introduction to Git and GitHub ](https://www.coursera.org/account/accomplishments/certificate/XVF4PD8CTTUU)
