@@ -7,7 +7,6 @@ Danesh Habibi (Friends call me Dani) <br>
 Passionate and hardworking software engineer with a focus on problem-solving and software development. Proficient in a diverse array of front-end and back-end technologies, including Javascript, Reactjs, Nextjs, PHP, Laravel, Node.js and Express. I've engineered innovative platforms that enhance company reputation and streamline operations through system automation and web-based solutions. Committed to leveraging technology to drive business growth and adept at overcoming challenges to deliver impactful results.
 
 ### **Skills**
-- **Java**: Normally used for educational purposes, like algorithmic problems.
 - **JavaScript**: I've been quite busy with JavaScript by providing interactive web pages and building scalable and efficient web servers, besides that I also use javascript for automation, testing and web scrapping.
 - **TypeScript**: Building scalable and maintainable JavaScript applications, providing static typing, enhanced tooling support, and improved code readability and organization due to its type-checking capabilities, ES6+ features compatibility, and gradual adoption path within JavaScript projects.
 - **React.js**: Building single-page applications, complex UIs due to its component-based architecture, efficient Virtual DOM, and robust ecosystem.
@@ -17,6 +16,7 @@ Passionate and hardworking software engineer with a focus on problem-solving and
 - **Express**: Integrated with Node.js for a fast, scalable web applications and APIs, simplifying server-side development, and handling routing and middleware efficiently due to its minimalistic framework, robust features, and flexibility.
 - **MongoDB**: Storing and managing large volumes of unstructured data, enabling flexible schema design, and scaling applications horizontally due to its NoSQL architecture, document-oriented model, and high performance.
 - **Php, Laravel**: Used for building robust, maintainable web applications, streamlining common tasks like routing and authentication, and ensuring a clean, elegant syntax due to its MVC architecture, built-in tools, and extensive ecosystem.
+- **Java**: Normally used for educational purposes, like algorithmic problems.
 - **SQL**: Managing and querying relational databases, ensuring data integrity, and performing efficient data retrieval and manipulation operations due to its standardized syntax, relational model support, and wide compatibility across database systems.
 - **Git**: Managing code changes, collaborating with teams, and ensuring project history and integrity through its distributed architecture, branching model, and efficient merging and conflict resolution capabilities.
 - **Tailwindcss**: I particularly use it for building custom, responsive user interfaces efficiently by applying utility-first classes directly in HTML, avoiding traditional CSS file bloat, and enabling rapid prototyping and consistent styling across projects due to its utility-based approach, customizable design system, and focus on developer productivity, especially in single-page application libraries like React.js and Next.js.
