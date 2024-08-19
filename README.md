@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&letterSpacing=2px&duration=4000&pause=1000&color=C5F467&width=435&lines=Hello!+I'm+Danesh+Habibi)](https://github.com/s1rbl4ck)
 
 Danesh Habibi (Friends call me Dani) <br>
-**Software Engineer**
+**Software Developer**
 <br>
 
 Passionate and hardworking software engineer with a focus on problem-solving and software development. Proficient in a diverse array of front-end and back-end technologies, including Javascript, Reactjs, Nextjs, PHP, Laravel, Node.js and Express. I've engineered innovative platforms that enhance company reputation and streamline operations through system automation and web-based solutions. Committed to leveraging technology to drive business growth and adept at overcoming challenges to deliver impactful results.
