@@ -23,6 +23,7 @@ Passionate and hardworking software engineer with a focus on problem-solving and
 - **Sass**: Enhancing CSS with variables, mixins, and nested rules, improving code organization and maintainability in styling. When customizing Tailwind CSS with Sass, I leverage its capabilities to define global variables, extend utility classes, and encapsulate styles, enhancing Tailwind's utility-based approach with more advanced styling features and modularity.
 
 ### **Certificates**
+- [Docker & Kubernetes](https://www.udemy.com/certificate/UC-26fa2339-285a-4b32-ae72-d989276a600a/)
 - [HackerRank Javascript(Intermediate)](https://www.hackerrank.com/certificates/35d53b3872dc)
 - [HackerRank Javascript(Basics)](https://www.hackerrank.com/certificates/fdd229708247)
 - [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/account/accomplishments/certificate/5U26JHBS8LNA)
@@ -31,7 +32,6 @@ Passionate and hardworking software engineer with a focus on problem-solving and
 - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/2D2YVHQESQCW)
 
 ### **Projects**
-- [TopVan](https://topvan.ch/)
 - [Personal Sample Portfolio](https://s1rbl4ck.vercel.app/)
 - [Watchflick Movie Trailer Platform](https://watchflick.vercel.app/)
 - [AtebaIrani](https://atebairani.ir)
