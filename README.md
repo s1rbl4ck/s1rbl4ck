@@ -2,7 +2,7 @@
 
 <p align="left">
   <samp>
-    <a href="https://s1rbl4ck.dev" target='_blank'>Personal Website</a>
+    <a href="https://s1rbl4ck.com" target='_blank'>Personal Website</a>
   </samp>
 </p>
 
