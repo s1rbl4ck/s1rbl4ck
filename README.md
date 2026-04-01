@@ -25,7 +25,7 @@ I am a **Software Engineer** dedicated to finding efficient, scalable, and high-
 
 
 ### **Key Projects & Certifications**
-- [Personal Portfolio Project](https://s1rbl4ck.dev/)
+- [Personal Portfolio Project](https://s1rbl4ck.com/)
 - [MongoDB Node.js Developer Path](https://learn.mongodb.com/c/iDoig0CdRz6ljk3ATnXewQ)
 - [Docker & Kubernetes Certificate](https://www.udemy.com/certificate/UC-26fa2339-285a-4b32-ae72-d989276a600a/)
 - [NodeJs Certificate](https://www.hackerrank.com/certificates/242f5d8de310)
